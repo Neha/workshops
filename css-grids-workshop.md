@@ -19,6 +19,24 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 
 - 1hr additional doubt-session, code-reviews, etc. after a week of the workshop
 
+### What is required to attend the workshop?
+
+- Good internet connection
+
+- Laptop 
+
+- Chrome browser
+
+- IDE of your choice
+
+- Github
+
+- GoToMeeting
+
+- Knowldge of HTML5 or [Learn from here](https://www.w3schools.com/html/)
+
+- Knowledge of CSS or [learn from here](https://www.w3schools.com/css/default.asp)
+
 
 ### Schedule
 
