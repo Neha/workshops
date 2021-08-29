@@ -39,7 +39,7 @@ It will have 5-6 projects (real world), and small interactive exercise.
 
 ### Schedule
 
-**Date**: 24th Sep and 25th Sep 2021 ; and doubt session on 1st Nov
+**Date**: 24th Sep and 25th Sep 2021 ; and doubt session on 2nd Oct
 
 **Time**:  6:00 PM - 8:30 PM IST
 
