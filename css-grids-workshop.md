@@ -22,13 +22,13 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 
 ### Schedule
 
-**Date**: 24th Sep and 25th Sep 2021; and doubt session on 2nd Nov
+**Date**: 24th Sep and 25th Sep 2021; and doubt session on 2nd Oct
 
 **Time**:  6:00 PM - 8:30 PM IST
 
 **Where**: GoToMeeting
 
-**Fees**: INR 2000 per person (non-refundable)
+**Fees**: INR 2000 per person (non-refundable*)
 
 
 ### Content
@@ -64,8 +64,8 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 
 ### How to register
 
-1. Pay at INR 2000/-. It is non-refundable. If the organizer reschedules or cancels the workshop then the money will be refunded.
+1. Pay INR 2000/- at nsharma215@okicici . *It is non-refundable. If the organizer reschedules or cancels the workshop then the money will be refunded.
 
 2. Fill this [form](https://forms.gle/c6rSLkPhm6V87HW76)
 
-3. You will get an email for confirmation
+3. You will get an email for confirmation & with details
