@@ -35,7 +35,7 @@ This will be 2 days dedicated workshop for the developers who are familar with C
 
 It will have 5-6 projects (real world), and small interactive exercise.
 
-[More details Here](https://github.com/Neha/workshops/blob/master/css-grids-workshop.md)
+👉 [For details on - How toregister, Agenda , etc ]](https://github.com/Neha/workshops/blob/master/css-grids-workshop.md)
 
 ### Schedule
 

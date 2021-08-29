@@ -7,10 +7,10 @@ The workshop will focus on learning by doing. There will. be 4-5 projects (real 
 After 2 days workshop, you will be comfortable in creating the layouts using CSS Grids and will be well versed with the CSS Grids concepts.
 
 
-### What you will get as an attendee:
+### 🎁 What you will get as an attendee:
 
 - 2 days of dedicated learning on CSS Grids
-
+ 
 - Well balanced workshop between theory and hands-on
 
 - Recorded video sessions (lifetime access)
@@ -19,7 +19,7 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 
 - 1hr additional doubt-session, code-reviews, etc. after a week of the workshop
 
-### What is required to attend the workshop?
+### 📝 What is required to attend the workshop?
 
 - Good internet connection
 
@@ -38,7 +38,7 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 - Knowledge of CSS or [learn from here](https://www.w3schools.com/css/default.asp)
 
 
-### Schedule
+### 🗒 Schedule
 
 **Date**: 24th Sep and 25th Sep 2021; and doubt session on 2nd Oct
 
@@ -49,12 +49,12 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 **Fees**: INR 2000 per person (non-refundable*)
 
 
-### Content
+### 💻 Content
 
 **Day 1**
 
 1) Introduction to layouts [Theory] 
-
+ 
 2) What, and why Grids [Theory] 
 
 3) Layouts techniques vs Grids [Theory] 
@@ -80,7 +80,7 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 
 3) Project Day (We will create a project together here)
 
-### How to register
+### ❓❓ How to register
 
 1. Pay INR 2000/- at nsharma215@okicici . *It is non-refundable. If the organizer reschedules or cancels the workshop then the money will be refunded.
 
