@@ -20,7 +20,7 @@ Know more about me:
 
 ## ⚡️⚡️ Upcoming
 
-1. [CSS Grids workshop](https://github.com/Neha/workshops#-css-grids-workshop) | 24th Sep and 25th Sep 2021  | 6:00 PM - 8:30 PM
+1. **SOLD OUT** | [CSS Grids workshop](https://github.com/Neha/workshops#-css-grids-workshop) | 24th Sep and 25th Sep 2021  | 6:00 PM - 8:30 PM
 
 2. Accessible Forms | Upcoming
 

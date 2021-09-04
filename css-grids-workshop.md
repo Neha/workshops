@@ -1,5 +1,7 @@
 ## 👩🏻‍💻 CSS Grids workshop 
 
+**UPDATE: THIS WORKSHOP IS SOLD OUT**
+
 This will be 2 days dedicated workshop for the developers who want to learn to create layouts by CSS Grids. The focus will be on both theory and hands-on. 
 
 The workshop will focus on learning by doing. There will. be 4-5 projects (real world) and a lot of interactive exercises to understand & implement the concepts.
@@ -82,7 +84,9 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 
 ### ❓❓ How to register
 
-1. Pay INR 2000/- at nsharma215@okhdfcbank . *It is non-refundable. If the organizer reschedules or cancels the workshop then the money will be refunded.
+Update:This workshop is full now
+
+1. Pay INR 2000/- . *It is non-refundable. If the organizer reschedules or cancels the workshop then the money will be refunded.
 
 2. Fill this [form](https://forms.gle/c6rSLkPhm6V87HW76)
 
