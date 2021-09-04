@@ -82,7 +82,7 @@ After 2 days workshop, you will be comfortable in creating the layouts using CSS
 
 ### ❓❓ How to register
 
-1. Pay INR 2000/- at nsharma215@okicici . *It is non-refundable. If the organizer reschedules or cancels the workshop then the money will be refunded.
+1. Pay INR 2000/- at nsharma215@okhdfcbank . *It is non-refundable. If the organizer reschedules or cancels the workshop then the money will be refunded.
 
 2. Fill this [form](https://forms.gle/c6rSLkPhm6V87HW76)
 
